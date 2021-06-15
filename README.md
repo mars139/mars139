@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mars139
+- 👋 Hi, I’m @mars139 / Steve Jeong
 - 👀 I’m interested in python, SQL, java
 - 🌱 I’m currently learning python, SQL, java
 - 💞️ I’m looking to collaborate on python, SQL, java
